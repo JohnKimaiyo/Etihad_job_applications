@@ -1,0 +1,21 @@
+Quarter,Initiative_Name,Investment_USD,Annual_Cost_Savings_USD,Annual_Revenue_Impact_USD,ROI_Percent,Status
+2022-09-30,AI_Predictive_Maintenance,3138034.24,788204.34,1011359.71,57.3,Completed
+2022-09-30,Cloud_Data_Migration,4424557.59,1488525.84,1385004.38,64.9,In Progress
+2022-09-30,Automated_Reporting,4651247.22,1355595.43,1072148.8,52.2,In Progress
+2022-09-30,AI_Revenue_Optimization,3230217.71,758539.54,1121818.58,58.2,In Progress
+2022-12-31,AI_Predictive_Maintenance,4665058.31,1120397.14,1038664.08,46.3,In Progress
+2022-12-31,Cloud_Data_Migration,4275041.39,747843.83,1642335.71,55.9,In Progress
+2022-12-31,Automated_Reporting,2834771.26,760441.81,793170.53,54.8,Completed
+2022-12-31,AI_Revenue_Optimization,2008387.59,623746.32,403538.1,51.1,Completed
+2023-03-31,AI_Predictive_Maintenance,2291759.12,590080.12,879969.32,64.1,Completed
+2023-03-31,Cloud_Data_Migration,2061289.41,613234.11,598688.29,58.8,Completed
+2023-03-31,Automated_Reporting,2535977.82,451838.73,596658.26,41.3,Completed
+2023-03-31,AI_Revenue_Optimization,2385164.52,794186.28,649906.72,60.5,In Progress
+2023-06-30,AI_Predictive_Maintenance,3345189.3,510539.08,1112969.48,48.5,Completed
+2023-06-30,Cloud_Data_Migration,4824816.43,867176.54,1365060.34,46.3,Completed
+2023-06-30,Automated_Reporting,4985934.13,1248672.37,1590896.92,57.0,Completed
+2023-06-30,AI_Revenue_Optimization,3874822.12,743892.68,1470924.55,57.2,Completed
+2023-09-30,AI_Predictive_Maintenance,1358094.74,213641.79,399841.28,45.2,In Progress
+2023-09-30,Cloud_Data_Migration,795688.88,242769.07,231273.15,59.6,In Progress
+2023-09-30,Automated_Reporting,2483432.36,571568.45,774652.25,54.2,Completed
+2023-09-30,AI_Revenue_Optimization,1318676.59,425084.79,513259.38,71.2,Completed
